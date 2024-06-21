@@ -85,6 +85,9 @@
 ### Customização e Escalabilidade
 - Capacidade de personalizar o sistema de acordo com as necessidades específicas do restaurante e expandir conforme o crescimento do negócio.
 
+### Atualizações e Manutenção
+- Planear e gerir as atualizações da aplicação para garantir que os utilizadores tenham acesso às versões mais recentes e seguras.
+
 ---
 
 Um bom sistema de gestão de restaurante não apenas facilita as operações diárias, mas também ajuda na tomada de decisões estratégicas com base em dados precisos e análises detalhadas. A escolha do sistema certo pode fazer uma diferença significativa na eficiência operacional e na satisfação dos clientes.
